@@ -1,0 +1,118 @@
+.h1-type {
+    border-left: 5px solid;
+    border-color: orange;
+
+    padding-left: 1%;
+    font-size: 40px;
+    border-image-slice: 1;
+
+
+}
+
+.mission-name {
+    color: orange;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 10%;
+}
+
+.flexing-type {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.buttom-link {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5%;
+    font-weight: 700;
+}
+
+small {
+
+    margin-top: 10%;
+
+
+}
+
+.year {
+    color: orange;
+}
+
+.mission-text {
+    text-align: center;
+    font-size: 40px;
+}
+
+#mission {
+    border: solid;
+    border-color: rgb(255, 192, 203);
+    background-color: hwb(350 75% 0%);
+}
+
+#vision {
+    border: solid;
+    border-color: azure;
+    background-color: azure);
+}
+
+#goals {
+    border: solid;
+    border-color: bisque;
+    background-color: beige;
+}
+
+.flexing-notes {
+    display: flex;
+    border-bottom: 100%;
+}
+
+.box {
+    box-shadow: 10px 10px 40px;
+    width: 30%;
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-left: 5%;
+    padding: 10px;
+    margin-bottom: 10%;
+}
+
+.box img {
+    width: 20%;
+}
+
+.flexing-row {
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.image-width img {
+
+    width: 80%;
+
+}
+
+.image-width {
+
+    width: 50%;
+}
+
+.h2 {
+    font-weight: 900;
+}
+
+.background-image {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+}
